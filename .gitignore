@@ -1,0 +1,6 @@
+# ignore these directories
+bin/
+build/
+win_bld/
+.idea/
+creds.ini
